@@ -1,0 +1,126 @@
+
+
+body{
+	background-color: #EAE5E2;
+	overflow-x: hidden;
+	font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+	padding-bottom: 50px;
+}
+
+.navbar-Brand {
+	width: 65%;
+}
+
+.fas {
+	color: #707070;
+    position: relative;
+    top: 4px;
+}
+
+.navbar-right {
+	border-bottom: solid 1px;
+	border-bottom-color: #707070;
+	color: #707070;
+}
+
+.nav-link {
+	color: #707070;
+	width: 150px;
+}
+
+.navbar-toggler {
+	background-color: #EAE5E2;
+	border: solid 1px #707070;
+}
+
+.carousel {
+	overflow: hidden;
+    height: 600px;
+    width: 80%;
+    margin: 0 auto;
+	
+	
+}
+
+.carousel-inner{
+	width: 440px;
+	margin: 0 auto;
+}
+
+.card {
+	border: none;
+	padding-top: 100px;
+	background-color: #EAE5E2;
+	
+}
+
+.card-body {
+	text-align: center;
+}
+
+.card-body img {
+	height: 460px;
+	object-fit: cover;
+}
+
+#aboutSection {
+	padding-top: 50px;
+}
+
+#aboutSection h5 {
+	margin: 0 auto;
+	color: #707070;
+	padding-bottom: 20px;
+	margin: 0 auto;
+	width: 75%;
+}
+
+#aboutSection p {
+	width: 75%;
+	margin: 0 auto;
+	color: #707070;
+}
+
+#aboutSectionTwo {
+	padding-top: 50px;
+	text-align: right;
+}
+
+#aboutSectionTwo h5 {
+	margin: 0 auto;
+	color: #707070;
+	padding-bottom: 20px;
+	margin: 0 auto;
+	width: 75%;
+}
+
+#aboutSectionTwo p {
+	width: 75%;
+	margin: 0 auto;
+	color: #707070;
+}
+
+#stickyfooter {
+	background-color: #EAE5E2;
+
+}
+
+.footerlinks{
+	float: right;
+	display: inline-flex;
+	list-style: none;
+	position: relative;
+	border-top: solid 1px;
+	border-top-color: #707070;
+}
+
+.footerlinks li {
+	padding-bottom: 50px;
+	padding-right: 20px;
+}
+
+
+
